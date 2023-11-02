@@ -3,5 +3,4 @@ The Veracode XML Report to Excel Converter is a Python script that allows you to
 Usage : 
 Veracode2xlsx.py "path_to_xml\xml_file.xml"
 
-<img width="575" alt="veracode" src="https://github.com/Adreeta16/Veracode2xlsx/assets/46935835/895d115d-2717-4930-820e-5ba21ff88bec">
 
